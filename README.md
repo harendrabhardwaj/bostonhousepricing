@@ -10,5 +10,5 @@ Create a new Environment:--
 ```
 conda create -p venv python==3.7 -y
 conda activate E:\Data Science Practicals\bostonhousepricing\venv
-
 ```
+Now to deploy on heroku platform we need to create a proc file.
